@@ -1,0 +1,12 @@
+.rounded-img {
+    border-radius: 70%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover; 
+  }
+
+  .btn{
+    background-color: rgb(135, 172, 204);
+    color: azure;
+  }
+  
